@@ -8,9 +8,9 @@ http://automationpractice.com/index.php
 
 ## Scenario - Tests 📖:
 
-*Login Correct
+* Login Correct
 
-*Login Inorrect
+* Login Inorrect
 
 ## Used technology 🛠️
 
